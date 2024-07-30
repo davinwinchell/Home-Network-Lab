@@ -20,11 +20,23 @@ This project's goal is to learn more about networking by creating my own home ne
 
 <p align="center">
 Create a network diagram: <br/>
-<img src="https://i.imgur.com/EBC49v7.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/PaWR7XM.png" height="80%" width="80%"/>
 <br />
 <br />
-Set up a VM for the Domain Controller:  <br/>
-<img src="https://i.imgur.com/LbdEusn.png" height="80%" width="80%"/>
+Create bootable usb with pfSense ISO and then install on Dell machine:  <br/>
+<img src="https://i.imgur.com/iw3tjwf.png" height="80%" width="80%"/>
+<br />
+<br />
+Install pfSense and access via web configurator:  <br/>
+<img src="" height="80%" width="80%"/>
+<br />
+<br />
+Create bootable usb with pfSense ISO and then install on Dell machine:  <br/>
+<img src="https://i.imgur.com/iw3tjwf.png" height="80%" width="80%"/>
+<br />
+<br />
+Create bootable usb with pfSense ISO and then install on Dell machine:  <br/>
+<img src="https://i.imgur.com/iw3tjwf.png" height="80%" width="80%"/>
 <br />
 
 </p>
