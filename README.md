@@ -28,19 +28,25 @@ Create bootable usb with pfSense ISO and then install on Dell machine:  <br/>
 <br />
 <br />
 Install pfSense and access via web configurator:  <br/>
-<img src="" height="80%" width="80%"/>
+<img src="https://i.imgur.com/Dg0jwQp.png" height="80%" width="80%"/>
 <br />
 <br />
-Create bootable usb with pfSense ISO and then install on Dell machine:  <br/>
-<img src="https://i.imgur.com/iw3tjwf.png" height="80%" width="80%"/>
+Connect and configure switch and VLANs:  <br/>
+<img src="https://i.imgur.com/BsUrnrr.png" height="80%" width="80%"/>
 <br />
 <br />
-Create bootable usb with pfSense ISO and then install on Dell machine:  <br/>
-<img src="https://i.imgur.com/iw3tjwf.png" height="80%" width="80%"/>
+Physically connect devices and access points:  <br/>
+<img src="https://i.imgur.com/uevQ4s9.jpg" height="80%" width="80%"/>
+<img src="https://i.imgur.com/Om9kuV0.jpg" height="80%" width="80%"/>
 <br />
-
+<br />
+Set up firewall rules to isolate VLANs:  <br/>
+<img src="https://i.imgur.com/HrxZJbW.png" height="80%" width="80%"/>
+<br />
 </p>
 
+<h2>Issue:</h2>
+I had to use a USB ethernet adaptor because I did not own a device with two ethernet ports. The inexpensive device is causing extreme limits to network connection speeds. I flip flopped the interfaces so that the limited speed was applied to uploads instead of downloads. I plan to purchase an Intel Network Interface Card and install into the Dell device using a PCIe port to achieve maximum upload and download speeds.
 <!--
  ```diff
 - text in red
